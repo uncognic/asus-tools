@@ -1,4 +1,4 @@
-# asus-fan
-C program for controlling fan profiles on certain ASUS laptops
+# asus-tools
+Tools for easily controlling things such as fan profiles and battery thresholds on ASUS laptops running Linux.
 ## Build
-`gcc main.c -o asus-fan`
+`gcc file.c -o asus-tool`
